@@ -13,7 +13,7 @@
  Questão 3
  
  - Faça  um  programa  que  receba  o  código  correspondente  ao  cargo  de  um  funcionário  e  seusalário atual e mostre o cargo, o valor do aumento e seu novo salário. Os cargos estão na tabela a seguir:
- [tabela](https://i.imgur.com/fTUWkYy.png "tabela")
+ ![tabela](https://i.imgur.com/fTUWkYy.png "tabela")
 \
 \
 \
